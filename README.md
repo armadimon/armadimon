@@ -2,7 +2,7 @@
 
 ---
 
-**⚡️Badges :** ![42](https://badge42.vercel.app/api/v2/cl31qu8un001109mnzxb3no9c/stats?cursusId=21&coalitionId=88) ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%armadimon)
+**⚡️Badges :** ![42](https://badge42.vercel.app/api/v2/cl31qu8un001109mnzxb3no9c/stats?cursusId=21&coalitionId=88)
 
 <table>
   <tr>
